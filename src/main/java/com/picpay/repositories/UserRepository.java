@@ -1,6 +1,6 @@
 package com.picpay.repositories;
 
-import org.apache.catalina.User;
+import com.picpay.domain.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
